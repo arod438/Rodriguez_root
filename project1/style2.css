@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	background-image: url(pics/taxi.jpg);
+	background-position: center;
+	background-size: ;
+	background-repeat: no-repeat;
+}
+
+.title2 {
+	position: absolute;
+	display: block;
+	text-align: right;
+	margin: 0px 140;
+	color: greenyellow
+}
+
+.heading {
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	margin: auto;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	color: greenyellow
+}
+
+.title1 {
+	text-align: center;
+	display: block;
+	font-size: 50;
+}
+
+.join {
+	margin: 230px auto;
+	display: block;
+	width: 200;
+	height: 40;
+	font-weight: bold;
+}
+
+.join:hover {
+	background-color: red;
+	cursor: pointer;
+}

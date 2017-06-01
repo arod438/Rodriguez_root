@@ -1,0 +1,42 @@
+.wrapper {
+	width: 600px;
+	margin: 0 auto 0 auto;
+	background: ;
+}
+
+.heading {
+	background: red;
+	height: 100px;
+	padding: 15;
+	text-align: center;
+}
+
+.navigation {
+	height: 50px;
+	background: green;
+	margin-top: 10px;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.navigation ul {
+	text-align: center;
+}
+
+.navigation ul li {
+	display: inline;
+	margin-right:20px; 
+		
+}
+
+.content {
+	width: 300px;
+	float: left;
+	padding: 10px;
+}
+
+.sidebar {
+	width: 200px;
+	float: right;
+	height: 400px;
+}
